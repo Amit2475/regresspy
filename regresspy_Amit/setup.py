@@ -6,8 +6,8 @@ setup(
     packages = ['regresspy.Regression'],
     package_dir = {'' : 'regresspy'},
     url = 'http://example.com',
-    liscense = 'MIT',
-    author = "Abu Kowshir Bitto",
-    author_email = 'abu.kowshir777@gmail.com',
+    liscense = 'AMIT',
+    author = "Amit Chowdhury",
+    author_email = 'amit35-2475@diu.edu.bd',
     description = 'Regression using Gradient Descent from scratch'
 )
